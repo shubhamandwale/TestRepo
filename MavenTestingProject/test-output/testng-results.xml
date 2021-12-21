@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11772" started-at="2021-12-20T11:23:02Z" finished-at="2021-12-20T11:23:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11772" started-at="2021-12-20T11:23:02Z" finished-at="2021-12-20T11:23:13Z">
+      <class name="javascript.Testorangehrm">
+        <test-method status="PASS" signature="TestLogin()[pri:0, instance:javascript.Testorangehrm@1f0f1111]" name="TestLogin" duration-ms="11757" started-at="2021-12-20T16:53:02Z" finished-at="2021-12-20T16:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+      </class> <!-- javascript.Testorangehrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
